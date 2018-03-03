@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/engaudio/test101/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[101-japan]:101/101-Japanese-megabanks-team-up-on-mobile-payments.md
+[坐不住了！日媒：日本将追随中国构建二维码结算体系][101-japan]
+
+[坐不住了！日媒：日本将追随中国构建二维码结算体系](101/101-Japanese-megabanks-team-up-on-mobile-payments.md)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
