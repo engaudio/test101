@@ -1,45 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/engaudio/test101/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[102-father-in-law]:102/102-shocking-moment-drunk-father-in-law-forces-bride-to-snog-him.html
-
-[公公强吻儿媳][102-father-in-law]
-
-[公公强吻儿媳](102/102-shocking-moment-drunk-father-in-law-forces-bride-to-snog-him.html)
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/engaudio/test101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+定制英语/普通话音频、转化YouTube音频，请联系我们。示范mp3文件/文字在: www.lizhi.fm/46237043，请用“荔枝FM”app播放。
+任意英语、中文文本，都可以转为语音。音频可用mp3文件交付，可反复听……无限循环。
+联系方式：
+微信公众号“英语音频分享”
+微信号：2301414714
+QQ:    2301414714
+邮箱：2301414714@qq.com
